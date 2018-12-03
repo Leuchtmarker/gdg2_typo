@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+.serif{
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+
+.sans{
+	font-family: font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";;
+}
+
+.mono{
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+}

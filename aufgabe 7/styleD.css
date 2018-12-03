@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+body.big{
+	font-size: 20pt;
+}
+
+body.small{
+	font-size: 9pt;
+}
+
+body.huge{
+	font-size: 36pt;
+}

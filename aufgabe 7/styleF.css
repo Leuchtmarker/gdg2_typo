@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+    text-align: justify;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 14pt;
+	line-height: 1.5;
+	letter-spacing: 0.1em;
+}
+
+.small{
+	margin: auto;
+	max-width: 500px;
+    margin-bottom: 1em;
+}
+
+.normal{
+	margin: auto;
+	max-width: 600px;
+    margin-bottom: 1em;
+}
+
+.huge{
+	margin: auto;
+	max-width: 1000px;
+    margin-bottom: 1em;
+}

@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	text-align: justify;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 14pt;
+	line-height: 1.25;
+	letter-spacing: 0.1em;
+}
+
+p{
+	text-align: justify;
+    margin: auto;
+    max-width: 750px;
+    margin-bottom: 1em;
+}
+
+
+h1{
+    text-align: center;
+}

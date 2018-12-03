@@ -1,0 +1,12 @@
+/* CSS Document */
+.letter-small{
+	letter-spacing: 0.0003em;
+}
+
+.letter-normal{
+	letter-spacing: 0.2em;
+}
+
+.letter-huge{
+	letter-spacing: 0.5em;
+}

@@ -1,0 +1,12 @@
+.f{
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: justify;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+    font-size: 14pt;
+    line-height: 1.25;
+    letter-spacing: 0.1em;
+}
